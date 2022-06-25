@@ -1,6 +1,6 @@
 # Emergency Patient Monitoring System
 
-An app used to monitor patients
+An Web-based application used to monitor patients.
 
 ## Screenshots
 
