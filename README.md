@@ -6,7 +6,7 @@ An Web-based application used to monitor patients.
 
 ![Login Page](https://github.com/AkhilVUKK/Emergency-Healthcare-Management/blob/main/screeenshots/login_page.png)
 
-![Signup Page](https://github.com/PradeepShaminathan/Emergency-Healthcare-Management/blob/main/screeenshots/SignUp.png)
+![Signup Page](https://github.com/AkhilVUKK/Emergency-Healthcare-Management/blob/main/screeenshots/signup_new.png)
 
 ![Hospital Home Page](https://github.com/PradeepShaminathan/Emergency-Healthcare-Management/blob/main/screeenshots/HospitalHome.png)
 
